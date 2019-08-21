@@ -158,8 +158,9 @@ DDPG was implemented as described.
 ### Learning Phase:
 
 * The phase consist of 6000 episodes finally. Initially I begun with 2000 episodes, which wasn't enough.
-* I started with 'max_t = 1000' and got to [a very high average score](./Results/BS_256_EP_6000_TMAX_1000_NOISE_0.01/log.txt) but at the same time the learning became very slow  (Since the games took longer) and these scores where far more than needed. So I reduced max_t to 200, achieving approximally average score of ~1.0.
-* This phase with the selected parameters yield the next output:
+* I started with 'max_t = 1000' and got to [a very high average score](./Results/BS_256_EP_6000_TMAX_1000_NOISE_0.01/log.txt) but at the same time the learning became very slow  (Since the games took longer) and these scores where far more than needed. So I reduced max_t to 200, achieving approximally average score of ~1.03. 
+* At some point, after 5600 episodes, the score begun to decrease.
+* This phase with the selected parameters yield [the next output](./Results/BS_256_EP_6000_TMAX_200_NOISE_0.1/log.txt), and as shown in the graph:
 
 ![training phase](./Images/Train.png)
 
