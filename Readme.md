@@ -6,8 +6,8 @@
 ## [Before Training](https://www.youtube.com/watch?v=QhVeoJaOLnY)
 [![BEFORE](https://img.youtube.com/vi/QhVeoJaOLnY/0.jpg)](https://youtu.be/QhVeoJaOLnY)
 
-## [After Training](https://www.youtube.com/watch?v=tuU1EVdII6Q)
-[![AFTER](https://img.youtube.com/vi/tuU1EVdII6Q/0.jpg)](https://youtu.be/tuU1EVdII6Q)
+## [After Training](https://www.youtube.com/watch?v=0b5em4mF24Y)
+[![AFTER](https://img.youtube.com/vi/0b5em4mF24Y/0.jpg)](https://youtu.be/0b5em4mF24Y)
 
 
 # The Environment
