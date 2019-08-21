@@ -345,4 +345,8 @@ Episode 6000	Average Score (25): 0.94
 Episode 6000	Average Score (100): 0.88
 100% (6000 of 6000) |####################| Elapsed Time: 2:01:37 Time:  2:01:37
 
+testing...
+loading net...
+100% (100 of 100) |######################| Elapsed Time: 0:29:46 Time:  0:29:46
+Final Score: ==> 0.93000001385808
 

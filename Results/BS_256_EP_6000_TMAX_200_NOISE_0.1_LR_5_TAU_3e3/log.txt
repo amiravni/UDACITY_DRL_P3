@@ -1,0 +1,346 @@
+
+Unity brain name: TennisBrain
+        Number of Visual Observations (per agent): 0
+        Vector Observation space type: continuous
+        Vector Observation space size (per agent): 8
+        Number of stacked Vector Observation: 3
+        Vector Action space type: continuous
+        Vector Action space size (per agent): 2
+        Vector Action descriptions: , 
+Number of agents: 2
+Size of each action: 2
+There are 2 agents. Each observes a state with length: 24
+The state for the first agent looks like: [ 0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.         -6.65278625 -1.5
+ -0.          0.          6.83172083  6.         -0.          0.        ]
+The state for the second agent looks like: [ 0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.         -6.4669857  -1.5
+  0.          0.         -6.83172083  6.          0.          0.        ]
+training...
+Episode 25	Average Score (25): 0.00
+Episode 50	Average Score (25): 0.00
+Episode 75	Average Score (25): 0.00
+Episode 100	Average Score (25): 0.04
+Episode 100	Average Score (100): 0.01
+Saving...
+Episode 125	Average Score (25): 0.06
+Episode 150	Average Score (25): 0.07
+Episode 175	Average Score (25): 0.07
+Episode 200	Average Score (25): 0.03
+Episode 200	Average Score (100): 0.06
+Saving...
+Episode 225	Average Score (25): 0.07
+Episode 250	Average Score (25): 0.05
+Episode 275	Average Score (25): 0.06
+Episode 300	Average Score (25): 0.06
+Episode 300	Average Score (100): 0.06
+Saving...
+Episode 325	Average Score (25): 0.06
+Episode 350	Average Score (25): 0.07
+Episode 375	Average Score (25): 0.08
+Episode 400	Average Score (25): 0.07
+Episode 400	Average Score (100): 0.07
+Saving...
+Episode 425	Average Score (25): 0.05
+Episode 450	Average Score (25): 0.08
+Episode 475	Average Score (25): 0.04
+Episode 500	Average Score (25): 0.04
+Episode 500	Average Score (100): 0.06
+Episode 525	Average Score (25): 0.08
+Episode 550	Average Score (25): 0.08
+Episode 575	Average Score (25): 0.05
+Episode 600	Average Score (25): 0.08
+Episode 600	Average Score (100): 0.08
+Saving...
+Episode 625	Average Score (25): 0.10
+Episode 650	Average Score (25): 0.12
+Episode 675	Average Score (25): 0.13
+Episode 700	Average Score (25): 0.07
+Episode 700	Average Score (100): 0.10
+Saving...
+Episode 725	Average Score (25): 0.07
+Episode 750	Average Score (25): 0.08
+Episode 775	Average Score (25): 0.07
+Episode 800	Average Score (25): 0.09
+Episode 800	Average Score (100): 0.08
+Episode 825	Average Score (25): 0.10
+Episode 850	Average Score (25): 0.10
+Episode 875	Average Score (25): 0.13
+Episode 900	Average Score (25): 0.09
+Episode 900	Average Score (100): 0.10
+Saving...
+Episode 925	Average Score (25): 0.10
+Episode 950	Average Score (25): 0.16
+Episode 975	Average Score (25): 0.11
+Episode 1000	Average Score (25): 0.10
+Episode 1000	Average Score (100): 0.12
+Saving...
+Episode 1025	Average Score (25): 0.10
+Episode 1050	Average Score (25): 0.08
+Episode 1075	Average Score (25): 0.09
+Episode 1100	Average Score (25): 0.10
+Episode 1100	Average Score (100): 0.09
+Episode 1125	Average Score (25): 0.09
+Episode 1150	Average Score (25): 0.05
+Episode 1175	Average Score (25): 0.05
+Episode 1200	Average Score (25): 0.07
+Episode 1200	Average Score (100): 0.07
+Episode 1225	Average Score (25): 0.06
+Episode 1250	Average Score (25): 0.14
+Episode 1275	Average Score (25): 0.14
+Episode 1300	Average Score (25): 0.15
+Episode 1300	Average Score (100): 0.12
+Saving...
+Episode 1325	Average Score (25): 0.17
+Episode 1350	Average Score (25): 0.17
+Episode 1375	Average Score (25): 0.26
+Episode 1400	Average Score (25): 0.34
+Episode 1400	Average Score (100): 0.24
+Saving...
+Episode 1425	Average Score (25): 0.38
+Episode 1450	Average Score (25): 0.41
+Episode 1475	Average Score (25): 0.38
+Episode 1500	Average Score (25): 0.54
+Episode 1500	Average Score (100): 0.43
+Saving...
+Episode 1525	Average Score (25): 0.61
+Episode 1550	Average Score (25): 0.40
+Episode 1575	Average Score (25): 0.46
+Episode 1600	Average Score (25): 0.47
+Episode 1600	Average Score (100): 0.48
+Saving...
+Episode 1625	Average Score (25): 0.53
+Episode 1650	Average Score (25): 0.62
+Episode 1675	Average Score (25): 0.66
+Episode 1700	Average Score (25): 0.47
+Episode 1700	Average Score (100): 0.57
+Saving...
+Episode 1725	Average Score (25): 0.54
+Episode 1750	Average Score (25): 0.41
+Episode 1775	Average Score (25): 0.54
+Episode 1800	Average Score (25): 0.63
+Episode 1800	Average Score (100): 0.53
+Episode 1825	Average Score (25): 0.54
+Episode 1850	Average Score (25): 0.69
+Episode 1875	Average Score (25): 0.70
+Episode 1900	Average Score (25): 0.44
+Episode 1900	Average Score (100): 0.59
+Saving...
+Episode 1925	Average Score (25): 0.64
+Episode 1950	Average Score (25): 0.64
+Episode 1975	Average Score (25): 0.62
+Episode 2000	Average Score (25): 0.55
+Episode 2000	Average Score (100): 0.62
+Saving...
+Episode 2025	Average Score (25): 0.74
+Episode 2050	Average Score (25): 0.62
+Episode 2075	Average Score (25): 0.59
+Episode 2100	Average Score (25): 0.62
+Episode 2100	Average Score (100): 0.64
+Saving...
+Episode 2125	Average Score (25): 0.64
+Episode 2150	Average Score (25): 0.61
+Episode 2175	Average Score (25): 0.52
+Episode 2200	Average Score (25): 0.56
+Episode 2200	Average Score (100): 0.59
+Episode 2225	Average Score (25): 0.52
+Episode 2250	Average Score (25): 0.61
+Episode 2275	Average Score (25): 0.44
+Episode 2300	Average Score (25): 0.56
+Episode 2300	Average Score (100): 0.53
+Episode 2325	Average Score (25): 0.57
+Episode 2350	Average Score (25): 0.88
+Episode 2375	Average Score (25): 0.86
+Episode 2400	Average Score (25): 0.66
+Episode 2400	Average Score (100): 0.74
+Saving...
+Episode 2425	Average Score (25): 0.55
+Episode 2450	Average Score (25): 0.38
+Episode 2475	Average Score (25): 0.27
+Episode 2500	Average Score (25): 0.45
+Episode 2500	Average Score (100): 0.41
+Episode 2525	Average Score (25): 0.72
+Episode 2550	Average Score (25): 0.46
+Episode 2575	Average Score (25): 0.43
+Episode 2600	Average Score (25): 0.57
+Episode 2600	Average Score (100): 0.55
+Episode 2625	Average Score (25): 0.58
+Episode 2650	Average Score (25): 0.81
+Episode 2675	Average Score (25): 0.73
+Episode 2700	Average Score (25): 0.74
+Episode 2700	Average Score (100): 0.72
+Episode 2725	Average Score (25): 0.91
+Episode 2750	Average Score (25): 0.94
+Episode 2775	Average Score (25): 0.80
+Episode 2800	Average Score (25): 0.63
+Episode 2800	Average Score (100): 0.82
+Saving...
+Episode 2825	Average Score (25): 0.93
+Episode 2850	Average Score (25): 0.76
+Episode 2875	Average Score (25): 0.82
+Episode 2900	Average Score (25): 0.70
+Episode 2900	Average Score (100): 0.80
+Episode 2925	Average Score (25): 0.69
+Episode 2950	Average Score (25): 0.89
+Episode 2975	Average Score (25): 0.78
+Episode 3000	Average Score (25): 0.76
+Episode 3000	Average Score (100): 0.78
+Episode 3025	Average Score (25): 1.02
+Episode 3050	Average Score (25): 0.89
+Episode 3075	Average Score (25): 0.71
+Episode 3100	Average Score (25): 0.76
+Episode 3100	Average Score (100): 0.85
+Saving...
+Episode 3125	Average Score (25): 0.98
+Episode 3150	Average Score (25): 0.64
+Episode 3175	Average Score (25): 0.65
+Episode 3200	Average Score (25): 0.47
+Episode 3200	Average Score (100): 0.68
+Episode 3225	Average Score (25): 0.63
+Episode 3250	Average Score (25): 0.47
+Episode 3275	Average Score (25): 0.69
+Episode 3300	Average Score (25): 0.26
+Episode 3300	Average Score (100): 0.51
+Episode 3325	Average Score (25): 0.33
+Episode 3350	Average Score (25): 0.53
+Episode 3375	Average Score (25): 0.67
+Episode 3400	Average Score (25): 0.24
+Episode 3400	Average Score (100): 0.44
+Episode 3425	Average Score (25): 0.76
+Episode 3450	Average Score (25): 0.70
+Episode 3475	Average Score (25): 0.81
+Episode 3500	Average Score (25): 0.60
+Episode 3500	Average Score (100): 0.72
+Episode 3525	Average Score (25): 0.88
+Episode 3550	Average Score (25): 0.78
+Episode 3575	Average Score (25): 0.80
+Episode 3600	Average Score (25): 0.65
+Episode 3600	Average Score (100): 0.78
+Episode 3625	Average Score (25): 0.78
+Episode 3650	Average Score (25): 0.57
+Episode 3675	Average Score (25): 0.70
+Episode 3700	Average Score (25): 0.66
+Episode 3700	Average Score (100): 0.68
+Episode 3725	Average Score (25): 0.56
+Episode 3750	Average Score (25): 0.62
+Episode 3775	Average Score (25): 0.62
+Episode 3800	Average Score (25): 0.68
+Episode 3800	Average Score (100): 0.62
+Episode 3825	Average Score (25): 0.42
+Episode 3850	Average Score (25): 0.38
+Episode 3875	Average Score (25): 0.23
+Episode 3900	Average Score (25): 0.34
+Episode 3900	Average Score (100): 0.34
+Episode 3925	Average Score (25): 0.20
+Episode 3950	Average Score (25): 0.20
+Episode 3975	Average Score (25): 0.27
+Episode 4000	Average Score (25): 0.28
+Episode 4000	Average Score (100): 0.24
+Episode 4025	Average Score (25): 0.32
+Episode 4050	Average Score (25): 0.14
+Episode 4075	Average Score (25): 0.28
+Episode 4100	Average Score (25): 0.36
+Episode 4100	Average Score (100): 0.27
+Episode 4125	Average Score (25): 0.44
+Episode 4150	Average Score (25): 0.41
+Episode 4175	Average Score (25): 0.30
+Episode 4200	Average Score (25): 0.14
+Episode 4200	Average Score (100): 0.32
+Episode 4225	Average Score (25): 0.19
+Episode 4250	Average Score (25): 0.19
+Episode 4275	Average Score (25): 0.44
+Episode 4300	Average Score (25): 0.40
+Episode 4300	Average Score (100): 0.31
+Episode 4325	Average Score (25): 0.42
+Episode 4350	Average Score (25): 0.23
+Episode 4375	Average Score (25): 0.50
+Episode 4400	Average Score (25): 0.62
+Episode 4400	Average Score (100): 0.44
+Episode 4425	Average Score (25): 0.60
+Episode 4450	Average Score (25): 0.60
+Episode 4475	Average Score (25): 0.70
+Episode 4500	Average Score (25): 0.20
+Episode 4500	Average Score (100): 0.53
+Episode 4525	Average Score (25): 0.26
+Episode 4550	Average Score (25): 0.36
+Episode 4575	Average Score (25): 0.26
+Episode 4600	Average Score (25): 0.30
+Episode 4600	Average Score (100): 0.30
+Episode 4625	Average Score (25): 0.46
+Episode 4650	Average Score (25): 0.45
+Episode 4675	Average Score (25): 0.59
+Episode 4700	Average Score (25): 0.60
+Episode 4700	Average Score (100): 0.53
+Episode 4725	Average Score (25): 0.50
+Episode 4750	Average Score (25): 0.44
+Episode 4775	Average Score (25): 0.72
+Episode 4800	Average Score (25): 0.45
+Episode 4800	Average Score (100): 0.53
+Episode 4825	Average Score (25): 0.56
+Episode 4850	Average Score (25): 0.72
+Episode 4875	Average Score (25): 0.61
+Episode 4900	Average Score (25): 0.60
+Episode 4900	Average Score (100): 0.62
+Episode 4925	Average Score (25): 0.62
+Episode 4950	Average Score (25): 0.56
+Episode 4975	Average Score (25): 0.41
+Episode 5000	Average Score (25): 0.23
+Episode 5000	Average Score (100): 0.45
+Episode 5025	Average Score (25): 0.31
+Episode 5050	Average Score (25): 0.34
+Episode 5075	Average Score (25): 0.41
+Episode 5100	Average Score (25): 0.54
+Episode 5100	Average Score (100): 0.40
+Episode 5125	Average Score (25): 0.54
+Episode 5150	Average Score (25): 0.51
+Episode 5175	Average Score (25): 0.38
+Episode 5200	Average Score (25): 0.74
+Episode 5200	Average Score (100): 0.54
+Episode 5225	Average Score (25): 0.59
+Episode 5250	Average Score (25): 0.57
+Episode 5275	Average Score (25): 0.50
+Episode 5300	Average Score (25): 0.36
+Episode 5300	Average Score (100): 0.51
+Episode 5325	Average Score (25): 0.64
+Episode 5350	Average Score (25): 0.52
+Episode 5375	Average Score (25): 0.40
+Episode 5400	Average Score (25): 0.50
+Episode 5400	Average Score (100): 0.52
+Episode 5425	Average Score (25): 0.63
+Episode 5450	Average Score (25): 0.69
+Episode 5475	Average Score (25): 0.31
+Episode 5500	Average Score (25): 0.30
+Episode 5500	Average Score (100): 0.48
+Episode 5525	Average Score (25): 0.37
+Episode 5550	Average Score (25): 0.55
+Episode 5575	Average Score (25): 0.48
+Episode 5600	Average Score (25): 0.62
+Episode 5600	Average Score (100): 0.50
+Episode 5625	Average Score (25): 0.50
+Episode 5650	Average Score (25): 0.48
+Episode 5675	Average Score (25): 0.39
+Episode 5700	Average Score (25): 0.48
+Episode 5700	Average Score (100): 0.46
+Episode 5725	Average Score (25): 0.43
+Episode 5750	Average Score (25): 0.52
+Episode 5775	Average Score (25): 0.41
+Episode 5800	Average Score (25): 0.40
+Episode 5800	Average Score (100): 0.44
+Episode 5825	Average Score (25): 0.33
+Episode 5850	Average Score (25): 0.42
+Episode 5875	Average Score (25): 0.44
+Episode 5900	Average Score (25): 0.38
+Episode 5900	Average Score (100): 0.39
+Episode 5925	Average Score (25): 0.40
+Episode 5950	Average Score (25): 0.40
+Episode 5975	Average Score (25): 0.46
+100% (6000 of 6000) |####################| Elapsed Time: 2:30:59 Time:  2:30:59
+Episode 6000	Average Score (25): 0.31
+Episode 6000	Average Score (100): 0.39
+N/A% (0 of 100) |                        | Elapsed Time: 0:00:00 ETA:  --:--:--testing...
+loading net...
+100% (100 of 100) |######################| Elapsed Time: 0:22:48 Time:  0:22:48
+Final Score: ==> 0.6780000101029873
+
