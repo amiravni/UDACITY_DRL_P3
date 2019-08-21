@@ -51,7 +51,7 @@ MAX_T_TEST = 200  ## max time step for each episode
 
 # Report
 ## Definitions
-### State (48 = 8*3*2) and action (2,continues) space:
+### State (48 = 8 * 3 * 2) and action (2,continues) space:
 ```
 Unity brain name: TennisBrain
         Number of Visual Observations (per agent): 0
@@ -164,10 +164,10 @@ DDPG was implemented as described.
 
 ![training phase](./Images/Train.png)
 
-'''
+```
 Episode 5600	Average Score (100): 1.03
 Saving...
-'''
+```
 
 ### Test Phase:
 At this phase the network only evaluate the predicted action at a given state.
@@ -176,31 +176,31 @@ This phase yields and average score of ~0.93 - **Meaning the agents were able to
 
 ![test phase](./Images/Test.png)
 
-'''
+```
 Final Score: ==> 0.93000001385808
-'''
+```
 
 
 ### Another "Not Bad" attemp
 
-* [BS_256_EP_6000_TMAX_200_NOISE_0.1_LR_5_TAU_3e3](./Results/BS_256_EP_6000_TMAX_200_NOISE_0.1/)
+* [BS_256_EP_6000_TMAX_200_NOISE_0.1_LR_5_TAU_3e3](./Results/BS_256_EP_6000_TMAX_200_NOISE_0.1_LR_5_TAU_3e3/)
 * Larger LR (5 times larger to both actor and critic)
 * Larger Tau (3 times larger)
 * Seems the convergence was faster but got only to ~0.85 and with lower values on the test as well. The lower values might be due to higher variance of the results.
 
-![training phase](./Results/BS_256_EP_6000_TMAX_200_NOISE_0.1/trainRes.png)
+![training phase](./Results/BS_256_EP_6000_TMAX_200_NOISE_0.1_LR_5_TAU_3e3/trainRes.png)
 
-'''
+```
 Episode 3100	Average Score (100): 0.85
 Saving...
-'''
+```
 
 
-![testing phase](./Results/BS_256_EP_6000_TMAX_200_NOISE_0.1/testRes.png)
+![testing phase](./Results/BS_256_EP_6000_TMAX_200_NOISE_0.1_LR_5_TAU_3e3/testRes.png)
 
-'''
+```
 Final Score: ==> 0.6780000101029873
-'''
+```
 
 ## Ideas for future work
 
